@@ -1,2 +1,2 @@
 # Password-Generator
-Web Projects
+Front End projects
